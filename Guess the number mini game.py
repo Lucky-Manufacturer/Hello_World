@@ -1,6 +1,6 @@
-rn = 7
+rn = 7 # the correct number
 
-while True:
+while True: # Starts an infinite loop. This will continue untill you get it correct
     guess = int(input("Guess the number! "))
 
     if guess < rn:
@@ -9,4 +9,4 @@ while True:
         print("Too high! ")
     else:
         print("You're Correct! ")
-        break
+        break # Exit the loop when the guess os correct
