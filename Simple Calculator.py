@@ -1,4 +1,4 @@
 x = float(input("First sum: "))
 y = float(input("Second sum: "))
-sum = x + y
-print("Total sum is: " + sum)
+total_sum = x + y
+print("Total sum is: " + str(total_sum))
