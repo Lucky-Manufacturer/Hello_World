@@ -9,3 +9,4 @@ while True:
         print("Too high! ")
     else:
         print("You're Correct! ")
+        break
