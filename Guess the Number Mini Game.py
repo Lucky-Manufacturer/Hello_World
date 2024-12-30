@@ -1,4 +1,4 @@
-rn = 7 # the correct number
+rn = 7 # the correct number. rn means "right number"
 
 while True: # Starts an infinite loop. This will continue untill you get it correct
     guess = int(input("Guess the number! "))
